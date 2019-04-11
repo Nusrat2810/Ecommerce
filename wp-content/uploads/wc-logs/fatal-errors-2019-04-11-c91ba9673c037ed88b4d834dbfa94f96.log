@@ -1,0 +1,8 @@
+2019-04-11T04:54:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp_project\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-04-11T05:09:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp_project\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-04-11T06:09:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp_project\wp-content\plugins\woocommerce\includes\admin\class-wc-admin-assets.php on line 9
+
+2019-04-11T06:09:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp_project\wp-content\plugins\custom-sidebars\inc\external\wpmu-lib\inc\class-thelib.php on line 146
+
